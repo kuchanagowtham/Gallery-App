@@ -1,0 +1,18 @@
+/* Write your code here. */
+.ul-container {
+  display: flex;
+}
+.main-container {
+  background-color: #ffffff;
+  width: 90vw;
+  height: 100vh;
+  box-shadow: 5px 5px 5px 5px #64748b;
+}
+.img-logo {
+  height: 400px;
+  width: 700px;
+  margin-top: 50px;
+}
+.mainimg-container {
+  margin-left: 40px;
+}
